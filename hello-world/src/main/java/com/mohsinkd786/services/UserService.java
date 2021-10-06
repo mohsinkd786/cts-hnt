@@ -30,3 +30,15 @@ public class UserService {
         return optionalUserDto.isPresent() ? optionalUserDto.get(): null;
     }
 }
+
+
+/*
+* 10/05
+* Assignment : Add a child entity within User e.g. Address, create an endpoint to search based on address.city
+*
+* Address : city, street,zipCode
+*
+* My Github Id : mohsinkd786
+*
+* Create a repo
+* */
